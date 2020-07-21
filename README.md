@@ -6,23 +6,17 @@ TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'league_table'
 ```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install league_table
+git clone git@github.com:iiakar/premierleaguetable.git
+cd premierleaguetable
+bundle install
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+./bin/table
+```
 
 ## Development
 
