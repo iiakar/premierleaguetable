@@ -1,4 +1,4 @@
-require 'colorize'
+# require 'colorize'
 require 'terminal-table'
 
 class LeagueTable::CLI
